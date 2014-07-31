@@ -20,7 +20,8 @@ I am running centOS 6.5 64bit, bit in general this shoud work on any platform wi
 ```bash
 cd ~
 mkdir oracle
- 
+cd oracle
+
 unzip instantclient-basic-linux.x64-12.1.0.1.0.zip
 unzip instantclient-sdk-linux.x64-12.1.0.1.0.zip
 unzip instantclient-sqlplus-linux.x64-12.1.0.1.0.zip
