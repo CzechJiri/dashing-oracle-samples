@@ -14,7 +14,7 @@ I have been using Dashing http://dashing.io/ with great success. It is absolutel
 I am running centOS 6.5 64bit, bit in general this shoud work on any platform with few twists, install Oracle thin client and install ruby-oci9
 
 
-  - get 3 zips (or rpms or …) from Oracle web site http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html
+  - get 3 zips (or rpms or â€¦) from Oracle web site http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html
   - run the install, in my case there are 3 ZIPs
 
 ```bash
@@ -62,8 +62,6 @@ sample jobs are .... well samples. You need to at bare minimum change SQL in eac
 enjoy!
 
 
-
-----
 ## License
 
 MIT
