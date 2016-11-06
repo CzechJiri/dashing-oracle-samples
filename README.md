@@ -29,7 +29,7 @@ unzip instantclient-sqlplus-linux.x64-12.1.0.1.0.zip
 export ORACLE_HOME=~/oracle
 export LD_LIBRARY_PATH=$ORACLE_HOME/instantclient_12_1
  
-cd ~/oracle/instantclient12_1
+cd ~/oracle/instantclient_12_1
 ln -s libclntsh.so.12.1 libclntsh.so
 ```
  
